@@ -1,0 +1,130 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+body {
+    height: 100%;
+    width: 100%;
+}
+#home {
+    background: url(../img/background.jpg) no-repeat center;
+    background-size: 100%;
+}
+/*Videos*/
+
+a#field {
+    height: 5%;
+    width: 21%;
+    position: absolute;
+    top: 29%;
+    left: 14%;
+}
+a#history {
+    height: 5%;
+    width: 18%;
+    position: absolute;
+    top: 9.6%;
+    left: 42.4%;
+}
+a#challenges {
+    height: 5%;
+    width: 33%;
+    position: absolute;
+    top: 29.3%;
+    left: 65.5%;
+}
+a#developement {
+    height: 5%;
+    width: 22.4%;
+    position: absolute;
+    top: 63%;
+    left: 62.8%;
+}
+a#cera {
+    height: 5%;
+    width: 29%;
+    position: absolute;
+    top: 64%;
+    left: 7.2%;
+}
+/***end videos**/
+
+a, a:focus, a:visited {
+    text-decoration: none;
+    color: #b4bc69;
+    font-size: 25px;
+    font-weight: 700;
+}
+.view {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.panel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+.video {
+    color: #fff;
+    background: url(../img/shape.png) no-repeat;
+    background-position-y: 100%;
+    background-position-y: 100%;
+    padding: 10px;
+    cursor: pointer;
+}
+.video header {
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+p {
+    color: #fff;
+    padding: 10px;
+}
+/*.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    line-height: 50px;
+    background: url(../img/footer.png);
+    text-align: center;
+}
+.footer a {
+    width: 50%;
+    height: 100%;
+    display: block;
+    float: left;
+    box-sizing: border-box;
+    overflow: hidden;
+    zoom: 1;
+}
+.footer a .icon {
+    height: 32px;
+    width: 32px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.footer a.active {
+    border-top: 3px solid #8198b8;
+}
+.footer a:not(.active) {
+    opacity: .8;
+}
+.footer a: first-child {
+    border-right: 1px solid rgb(104, 135, 163);
+}
+.footer a .icon-home {
+    background: url(../img/home.png) no-repeat;
+}
+.footer a .icon-about {
+    background: url(../img/info.png) no-repeat;
+}*/

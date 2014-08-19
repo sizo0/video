@@ -1,0 +1,1332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"backgroundSize"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"get",
+				"getWindowSizes"
+			],
+			[
+				"us",
+				"users_id"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"pro",
+				"projet"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"id_pr",
+				"id_projet"
+			],
+			[
+				"cont",
+				"continue"
+			],
+			[
+				"sele",
+				"select_statut"
+			],
+			[
+				"stat",
+				"statut"
+			],
+			[
+				"ob",
+				"obj_user"
+			],
+			[
+				"add_use",
+				"add_user_projet"
+			],
+			[
+				"rem",
+				"remove"
+			],
+			[
+				"refre",
+				"refreshTooltip"
+			],
+			[
+				"de",
+				"debut"
+			],
+			[
+				"data-typ",
+				"data-typeprojet"
+			],
+			[
+				"pros",
+				"prospect_length"
+			],
+			[
+				"clien",
+				"client_length"
+			],
+			[
+				"proj",
+				"projets_client"
+			],
+			[
+				"div",
+				"div_users"
+			],
+			[
+				"usr",
+				"users"
+			],
+			[
+				"code",
+				"code_api"
+			],
+			[
+				"array_mer",
+				"array_merge"
+			],
+			[
+				"exis",
+				"exist_projet"
+			],
+			[
+				"delete",
+				"delete_relation"
+			],
+			[
+				"selec",
+				"selected_projet"
+			],
+			[
+				"for",
+				"format_heure"
+			],
+			[
+				"time",
+				"timepicker"
+			],
+			[
+				"key",
+				"key_user"
+			],
+			[
+				"ref",
+				"refreshTooltip"
+			],
+			[
+				"chr",
+				"chrono"
+			],
+			[
+				"se",
+				"select_typetache"
+			],
+			[
+				"sel",
+				"select_projet"
+			],
+			[
+				"inp",
+				"inprogress"
+			],
+			[
+				"data-clien",
+				"data-client_prospect"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"data",
+				"data-typetache"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"rowsp",
+				"rowspan"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"row",
+				"rowspan"
+			],
+			[
+				"r",
+				"rowspan"
+			],
+			[
+				"prev",
+				"previous_date"
+			],
+			[
+				"curre",
+				"current_date"
+			],
+			[
+				"arra",
+				"array1"
+			],
+			[
+				"php",
+				"phptojs"
+			],
+			[
+				"sear",
+				"search_user"
+			],
+			[
+				"selc",
+				"select_user"
+			],
+			[
+				"his",
+				"history_state"
+			],
+			[
+				"pre",
+				"previous"
+			],
+			[
+				"state",
+				"statechange"
+			],
+			[
+				"min",
+				"minute"
+			],
+			[
+				"sec",
+				"seconde"
+			],
+			[
+				"wit",
+				"withday"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"nb",
+				"nbprojet"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"array_pr",
+				"array_projet"
+			],
+			[
+				"type",
+				"typetache"
+			],
+			[
+				"heure",
+				"heure_debut"
+			],
+			[
+				"cle",
+				"client_prospect"
+			],
+			[
+				"liste",
+				"liste_tache"
+			],
+			[
+				"list",
+				"liste_tache"
+			],
+			[
+				"hint",
+				"hint_user"
+			],
+			[
+				"hin",
+				"hint_projet"
+			],
+			[
+				"fro",
+				"from_date"
+			],
+			[
+				"tac",
+				"taches"
+			],
+			[
+				"taches",
+				"taches_client"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"id",
+				"idprojet"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"s",
+				"sélectionné"
+			],
+			[
+				"chro",
+				"chronometre"
+			],
+			[
+				"pr",
+				"projets_prospect"
+			],
+			[
+				"projet",
+				"projets_prospect"
+			],
+			[
+				"sc",
+				"scrollToTop"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"tr_",
+				"tr_top_plus"
+			],
+			[
+				"aff",
+				"afficher_tout"
+			],
+			[
+				"show",
+				"show_client"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ajax",
+				"ajaxStop"
+			],
+			[
+				"ajaxS",
+				"ajaxStart"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"client_",
+				"client_prospect"
+			],
+			[
+				"tach",
+				"taches_client"
+			],
+			[
+				"ORDER_PRO",
+				"ORDER_PROSPECT"
+			],
+			[
+				"li",
+				"liste_tache"
+			],
+			[
+				"hint_pr",
+				"hint_prospect"
+			],
+			[
+				"ta",
+				"taches_client"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"select_projet_",
+				"select_projet_client"
+			],
+			[
+				"projet_",
+				"projets_client"
+			],
+			[
+				"ch",
+				"chronometre"
+			],
+			[
+				"inter",
+				"intervalTooltip"
+			],
+			[
+				"ses",
+				"session_destroy"
+			],
+			[
+				"push",
+				"pushState"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inc",
+				"incl	include …"
+			],
+			[
+				"is",
+				"isLogged"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"data-",
+				"data-val"
+			],
+			[
+				"data-de",
+				"data-heure_debut"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"ol",
+				"old_text_start"
+			],
+			[
+				"refreshT",
+				"refreshtime"
+			],
+			[
+				"Type",
+				"Type_Tache"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"page",
+				"page-header"
+			],
+			[
+				"da",
+				"date_start"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"proje",
+				"projets_id"
+			],
+			[
+				"to",
+				"tooltip"
+			],
+			[
+				"info",
+				"info_projet"
+			],
+			[
+				"inf",
+				"info_projet"
+			],
+			[
+				"typ",
+				"typetache"
+			],
+			[
+				"dure",
+				"duree_total"
+			],
+			[
+				"str_re",
+				"str_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 2759,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 2302,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/js/service/service.js",
+			"settings":
+			{
+				"buffer_size": 1559,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/js/controller/home.js",
+			"settings":
+			{
+				"buffer_size": 712,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/css/style.css",
+			"settings":
+			{
+				"buffer_size": 2136,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/include/home.html",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/js/controller/root.js",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/include/video.html",
+			"settings":
+			{
+				"buffer_size": 147,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/js/controller/play.js",
+			"settings":
+			{
+				"buffer_size": 814,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Preferences: Settings - User"
+			],
+			[
+				"Snippet: gett",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"Snippet: get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"Snippet: g",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php … ?>"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/www/cordova/vid/platforms/android/assets/www/js/controller/play.js",
+		"/D/www/cordova/video/www/json/videos.json",
+		"/D/www/cordova/video/www/config.xml",
+		"/D/www/cordova/video/config.xml",
+		"/D/www/cordova/video/www/js/controller/play.js",
+		"/D/www/cordova/video/www/js/controller/root.js",
+		"/C/Program Files/nodejs/node_modules/npm/node_modules/fstream/lib/proxy-reader.js",
+		"/D/www/gestion_temps_V2/index.php",
+		"/D/www/cordova/cordova_helloworld/www/css/style.css",
+		"/D/www/gestion_du_temps/include/tache.php",
+		"/D/www/gestion_du_temps/php/tache.php",
+		"/D/www/gestion_du_temps/js/main.js",
+		"/D/www/gestion_du_temps/data.php",
+		"/D/www/gestion_du_temps/classes/Projet.class.php",
+		"/D/www/gestion_du_temps/js/PhpToJs.js",
+		"/D/www/gestion_du_temps/js/Interface.js",
+		"/D/www/gestion_du_temps/classes/DataSql.class.php",
+		"/D/www/gestion_du_temps/classes/Liste_Projet.class.php",
+		"/D/www/gestion_du_temps/classes/Error.class.php",
+		"/D/www/gestion_du_temps/js/functions.js",
+		"/D/www/gestion_du_temps/js/Chronometre.js",
+		"/D/www/gestion_du_temps/js/jquery.ui.timepicker.js",
+		"/D/www/gestion_du_temps/change.txt",
+		"/D/www/gestion_du_temps/classes/Statut.class.php",
+		"/D/www/gestion_du_temps/classes/Type.class.php",
+		"/D/www/gestion_du_temps/css/main.css",
+		"/D/www/gestion_du_temps/classes/Tache.class.php",
+		"/D/www/gestion_du_temps/js/global.js",
+		"/D/www/gestion_du_temps/include/head.php",
+		"/D/www/gestion_du_temps/js/bootstrap-checkbox.js",
+		"/D/www/gestion_du_temps/include/session.php",
+		"/D/www/gestion_du_temps/js/Client.js",
+		"/D/www/gestion_du_temps/index.php",
+		"/D/www/gestion_du_temps/classes/User.class.php",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/console-log.sublime-snippet",
+		"/D/www/gestion_du_temps/js/History.js",
+		"/D/www/gestion_du_temps/classes/Liste_Tache.class.php",
+		"/D/www/gestion_du_temps/css/bootstrap.css",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/ajax-(jquery).sublime-snippet",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/for-()-{}-(faster).sublime-snippet",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/actu-posts.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/news-posts.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/sidebar.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/sidebar-woocommerce.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/template_single.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/category.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/page-full-width.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/page.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/template_blog_loop.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/template_blog.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/index.php",
+		"/D/www/gestion_du_temps/Export_CLIENT.xls",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/wp-blog-header.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/wp-load.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/wp-settings.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/Stagiaire.SCENARII.000/AppData/Local/Temp/fz3temp-1/index.html",
+		"/D/www/gestion_du_temps/classes/Adresse.class.php",
+		"/D/www/gestion_du_temps/include/login.php",
+		"/D/www/gestion_du_temps/classes/Prospect.class.php",
+		"/D/www/gestion_du_temps/classes/Client.class.php",
+		"/D/www/gestion_du_temps/include/client.php",
+		"/D/www/gestion_du_temps/include/prospect.php",
+		"/D/www/gestion_du_temps/js/Tache.js",
+		"/D/www/gestion_du_temps/Classeur1.xls",
+		"/D/www/gestion_du_temps/js/Constant.js",
+		"/D/www/gestion_du_temps/css/jquery-ui.css",
+		"/D/www/gestion_du_temps/js/jquery.ui.widget.min.js",
+		"/D/www/gestion_du_temps/css/jquery-ui-1.10.0.custom.min.css",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/client.sql",
+		"/D/www/gestion_du_temps/include/projet.php",
+		"/D/www/gestion_du_temps/include/user.php",
+		"/D/www/gestion_du_temps/include/typetache.php",
+		"/D/www/gestion_du_temps/include/typeprojet.php",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/journal.txt",
+		"/D/www/gestion_du_temps/classes/Type_Tache.class.php",
+		"/D/www/gestion_du_temps/classes/Type_Projet.class.php",
+		"/D/www/gestion_du_temps/include/adresse.php",
+		"/D/www/gestion_du_temps/include/pole.php",
+		"/D/www/gestion_du_temps/php/adresse.php",
+		"/D/www/gestion_du_temps/php/user.php",
+		"/D/www/gestion_du_temps/php/client.php",
+		"/D/www/gestion_du_temps/php/pole.php",
+		"/D/www/gestion_du_temps/php/projet.php",
+		"/D/www/gestion_du_temps/js/Modal.js",
+		"/D/www/gestion_du_temps/Excel/Reader.php",
+		"/D/www/gestion_du_temps/Excel/package.xml",
+		"/D/www/gestion_du_temps/Excel/Writer.php",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/ajax-file-upload-with-jquery/js/jquery.form.js",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/blueimp-jQuery-File-Upload-9.7.0-0-g91b20e5/blueimp-jQuery-File-Upload-cf58488/server/node/server.js",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/blueimp-jQuery-File-Upload-9.7.0-0-g91b20e5/blueimp-jQuery-File-Upload-cf58488/js/main.js",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/blueimp-jQuery-File-Upload-9.7.0-0-g91b20e5/blueimp-jQuery-File-Upload-cf58488/js/jquery.fileupload-ui.js",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/blueimp-jQuery-File-Upload-9.7.0-0-g91b20e5/blueimp-jQuery-File-Upload-cf58488/js/jquery.fileupload.js",
+		"/D/www/gestion_du_temps/Excel/example.php",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/jquery-ui-timepicker-0.3.3 (1)/index.html",
+		"/D/www/gestion_du_temps/css/jquery.ui.timepicker.css",
+		"/D/www/gestion_du_temps/js/Graphe.js",
+		"/D/www/gestion_du_temps/css/build.css",
+		"/D/www/gestion_du_temps/css/bootstrap-checkbox.css",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/awesome-bootstrap-checkbox-master/demo/index.html",
+		"/D/www/gestion_du_temps/css/font-awesome.min.css",
+		"/D/www/gestion_du_temps/css/awesome-bootstrap-checkbox.css",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/awesome-bootstrap-checkbox-master/demo/bootstrap.css",
+		"/C/Users/STAGIA~1.000/AppData/Local/Temp/7zEAB24.tmp/bootstrap-checkbox.js",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/redips12.tar/redips12/REDIPS_table/redips-table.js",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/redips12.tar/redips12/REDIPS_table/header.js",
+		"/D/www/gestion_du_temps/classes/Pole.class.php",
+		"/D/www/gestion_du_temps/include/client",
+		"/D/www/gestion_du_temps/css/bootstrap-theme.css",
+		"/D/www/gestion_du_temps/js/Date.js",
+		"/D/www/erispoe/admin-client/enqueteur-pdf.php",
+		"/D/www/gestion_du_temps/fonctions-php/fonctions.php",
+		"/D/www/gestion_du_temps/fonctions-js/fonctions.js",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/www/gestion_du_temps/css/bootstrap-theme.min.css",
+		"/D/www/google-analytics/js/Date.js",
+		"/D/www/google-analytics/js/functions.js",
+		"/D/www/google-analytics/css/table.css",
+		"/D/www/google-analytics/css/main.css",
+		"/D/www/google-analytics/js/main.js",
+		"/D/www/gestion_du_temps/classes/functions.php",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/function.sublime-snippet",
+		"/D/www/google-analytics/index.php",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/function-(func).sublime-snippet",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/function-(fun).sublime-snippet",
+		"/D/www/google-analytics/js/PhpToJs.js",
+		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/User/increment_decrement.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\www\\gestion_du_temps\\js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\\n",
+			"challenges",
+			"history",
+			"field",
+			"\\n",
+			"Plus d\\'informations",
+			"info_projet",
+			"public",
+			"public/",
+			"id",
+			"users",
+			"fin",
+			"prospect",
+			"projet",
+			"debut",
+			"client",
+			"self",
+			"null",
+			"statut",
+			"code_api",
+			"nom",
+			"fin",
+			"debut",
+			"typeprojet",
+			"client",
+			"user",
+			"$(this)",
+			"remove",
+			"client",
+			"prospect",
+			"$tooltip",
+			"print_r",
+			"client",
+			"duree",
+			"debut_fin",
+			"description",
+			"nom",
+			"code_api",
+			"bool",
+			"projets",
+			"users",
+			" and ",
+			"and ",
+			"53",
+			"void",
+			"commit",
+			"début",
+			"debut",
+			"key_projet",
+			"date",
+			"description",
+			"user",
+			"projet",
+			"key",
+			"data-add-projet",
+			"user",
+			"tr:not(:first) ",
+			"table",
+			"user",
+			"duree",
+			"date",
+			"typetache",
+			"description",
+			"projet",
+			"client_propsect",
+			"button",
+			" class=\"pull-right\"",
+			"large",
+			"Nombre de",
+			"typetache",
+			"projet",
+			"$tooltip",
+			"$",
+			"chrono",
+			"start",
+			"sm",
+			"lg",
+			"md",
+			"lg",
+			"typetache",
+			"\\",
+			"date",
+			"type",
+			"null",
+			"previous",
+			"array2->getDate_debut()",
+			"$array1->getDate_debut()",
+			"1",
+			"liste2",
+			"liste1",
+			"option",
+			"id=\"(.*?)\"",
+			"<a href=\"#\">",
+			"</a>",
+			"li",
+			"select",
+			"client_prospect",
+			"client_propsect",
+			"client",
+			"client_prospect",
+			"client",
+			"prospect",
+			"client_prospect",
+			"prospect",
+			"spect",
+			"prospect",
+			"current",
+			"previous",
+			"window.history.pushState",
+			"data",
+			"format",
+			"convert",
+			"convert_seconde",
+			"withsecond",
+			"seconde",
+			"modifier",
+			"html\\('(.*?) : ",
+			"(.*?) : ",
+			"text",
+			"nb",
+			"user",
+			"client",
+			"debut",
+			"description",
+			"client",
+			"tache.clps",
+			"client",
+			"null"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",#",
+			"",
+			"value=\"0\"",
+			"html('<b>$1 :</b>",
+			"<b>$1 : </b>",
+			"self.display(data, display, $1, function(data){",
+			"'<b>$1 : </b>'",
+			"",
+			"window.history.pushState($1, '', '')",
+			"typetache",
+			"typeprojet",
+			"Type_Projet",
+			"typeprojet",
+			"Po.",
+			"Type_Projet",
+			"Ty.",
+			"getType_projet",
+			"type de projet",
+			"TYPE_PROJET",
+			"typeprojet",
+			"//self.deleted(data);",
+			"//self.updated(data);",
+			"//self.decreaseAjax($1);",
+			"//self.activeAjaxConnections",
+			"//self.added(data);",
+			"echo($1());",
+			"echo($1() . \"\\n\");",
+			"echo($1 . \"\\n\");",
+			"this.select_$1 = function(hint, async, display)",
+			".row.$1 button.mod",
+			"this.$1 = function($2)",
+			".row.$1 button.mod",
+			"$tr.append($('<td />').text(tache.$1.$2);",
+			"$tr.append($('<td />').text(tache.$1);",
+			"$tr.append($('<td />').text(tache.$1)",
+			"$tr.append($('<th />').text('$1')",
+			"$tr.append($('<th />').text('$1');",
+			"var $1 = tache.$1;",
+			"$1: $1",
+			"<li id=\"$1\"><a href=\"#\">$2</a></li>",
+			"get_tache",
+			"to",
+			"Liste_Tacheto",
+			"Liste_Tache",
+			"$1+1",
+			"$req->rowCount()",
+			" and ",
+			"print_r($req->errorInfo())",
+			"$req->execute()",
+			"$req->bindValue$1;",
+			"$req->bindValue($1);",
+			"$req = $1",
+			"$req = $2",
+			"::NEXIST_$1",
+			"intval($tache$1)), PDO::PARAM_INT)",
+			"intval($tache$1), PDO::PARAM_INT)",
+			"intval($tache$1)), PDO::PARAM_INT)",
+			"intval($tache$1), PDO::PARAM_INT)",
+			"user",
+			"projet",
+			"pole",
+			"USER",
+			"PROJET",
+			"POLE",
+			"=?,",
+			"$1",
+			"?",
+			"writeHTML($pdf, $1);",
+			" . ",
+			"$1],",
+			"add_info$1, false",
+			"$4",
+			"$2",
+			"$1",
+			"$ $1 = $enquete->get$1();",
+			"$$1 = $enquete->get$1();",
+			";",
+			"",
+			"? '<tr><td class=\"td-bold\">",
+			"<td> </td><td>",
+			"",
+			"<td>' .  . '</td>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/index.html",
+					"settings":
+					{
+						"buffer_size": 2759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1841,
+								1841
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/js/app.js",
+					"settings":
+					{
+						"buffer_size": 2302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1138,
+								1138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 417.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/js/service/service.js",
+					"settings":
+					{
+						"buffer_size": 1559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								886,
+								886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/js/controller/home.js",
+					"settings":
+					{
+						"buffer_size": 712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "www/css/style.css",
+					"settings":
+					{
+						"buffer_size": 2136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2136,
+								2136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "www/include/home.html",
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "www/js/controller/root.js",
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "www/include/video.html",
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "www/js/controller/play.js",
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true
+}
