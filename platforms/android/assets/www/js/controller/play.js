@@ -8,8 +8,11 @@ app.controller('Play', function($scope, VideosService, $routeParams, $rootScope,
         $rootScope.header = video.title.toUpperCase(); // modification du header
         $scope.video.link = $sce.trustAsResourceUrl(String(video.link)); // dire à angluar js que le lien est fiable
         var name = video.link;
-        window.Video.startVideoActivity();
-        window.VideoPlugin.playVideo(name);
+        try {
+            window.Video.startVideoActivity(name.toString());
+        } catch (e) {
+            alert(e.message);
+        }
         //window.VideoPlugin.playVideo(video.link));
     }, function(msg) {
         // fct erreur

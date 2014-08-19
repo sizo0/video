@@ -1,3 +1,6 @@
 # view AndroidManifest.xml #generated:6
 -keep class fr.video.vid.Video { <init>(...); }
 
+# view AndroidManifest.xml #generated:12
+-keep class fr.video.vid.VideoPlugin { <init>(...); }
+

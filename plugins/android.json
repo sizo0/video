@@ -14,19 +14,12 @@
                         }
                     ]
                 }
-            },
-            "AndroidManifest.xml": {
-                "parents": {
-                    "/manifest": [],
-                    "/manifest/application": [],
-                    "/*": []
-                }
             }
         }
     },
     "installed_plugins": {
         "org.apache.cordova.splashscreen": {
-            "PACKAGE_NAME": "fr.note.hello"
+            "PACKAGE_NAME": "fr.video.vid"
         }
     },
     "dependent_plugins": {}
