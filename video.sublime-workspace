@@ -4,8 +4,12 @@
 		"selected_items":
 		[
 			[
+				"Play",
+				"playVideo"
+			],
+			[
 				"back",
-				"backgroundSize"
+				"background-size"
 			],
 			[
 				"e",
@@ -510,68 +514,24 @@
 			[
 				"dure",
 				"duree_total"
-			],
-			[
-				"str_re",
-				"str_replace"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "www/index.html",
+			"file": "platforms/android/src/fr/video/vid/Video.java",
 			"settings":
 			{
-				"buffer_size": 2759,
-				"line_ending": "Windows"
+				"buffer_size": 1422,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "www/js/app.js",
+			"file": "www/js/controller/play.js",
 			"settings":
 			{
-				"buffer_size": 2302,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "www/js/service/service.js",
-			"settings":
-			{
-				"buffer_size": 1559,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "www/js/controller/home.js",
-			"settings":
-			{
-				"buffer_size": 712,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "www/css/style.css",
-			"settings":
-			{
-				"buffer_size": 2136,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "www/include/home.html",
-			"settings":
-			{
-				"buffer_size": 232,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "www/js/controller/root.js",
-			"settings":
-			{
-				"buffer_size": 179,
+				"buffer_size": 931,
 				"line_ending": "Windows"
 			}
 		},
@@ -579,15 +539,39 @@
 			"file": "www/include/video.html",
 			"settings":
 			{
-				"buffer_size": 147,
+				"buffer_size": 173,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "www/js/controller/play.js",
+			"file": "www/js/app.js",
 			"settings":
 			{
-				"buffer_size": 814,
+				"buffer_size": 2304,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 2796,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.xml",
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/controller/root.js",
+			"settings":
+			{
+				"buffer_size": 244,
 				"line_ending": "Windows"
 			}
 		}
@@ -595,9 +579,21 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 196.0,
+		"height": 219.0,
 		"selected_items":
 		[
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"java",
+				"Eclipse: Format Java"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
 			[
 				"inst",
 				"Package Control: Install Package"
@@ -627,7 +623,7 @@
 				"Snippet: <?php … ?>"
 			]
 		],
-		"width": 400.0
+		"width": 416.0
 	},
 	"console":
 	{
@@ -644,12 +640,26 @@
 	},
 	"file_history":
 	[
-		"/D/www/cordova/vid/platforms/android/assets/www/js/controller/play.js",
+		"/D/www/cordova/res/xml/config.xml",
+		"/D/www/cordova/video/platforms/android/res/xml/config.xml",
+		"/D/www/cordova/src/fr/video/vid/Video.java",
+		"/D/www/cordova/video/www/js/plugin/video.js",
+		"/C/Users/Stagiaire.SCENARII.000/Desktop/log.txt",
+		"/D/www/cordova/video/www/include/video.html",
 		"/D/www/cordova/video/www/json/videos.json",
-		"/D/www/cordova/video/www/config.xml",
 		"/D/www/cordova/video/config.xml",
-		"/D/www/cordova/video/www/js/controller/play.js",
+		"/D/www/cordova/video/platforms/android/res/layout/main.xml",
 		"/D/www/cordova/video/www/js/controller/root.js",
+		"/D/www/cordova/video/www/css/style.css",
+		"/D/www/cordova/video/www/config.xml",
+		"/D/www/cordova/video/platforms/android/AndroidManifest.xml",
+		"/D/www/cordova/video/www/js/controller/home.js",
+		"/D/www/cordova/video/www/index.html",
+		"/D/www/cordova/video/www/js/app.js",
+		"/D/www/cordova/video/www/js/service/service.js",
+		"/D/www/cordova/video/www/include/home.html",
+		"/D/www/cordova/video/www/js/controller/play.js",
+		"/D/www/cordova/vid/platforms/android/assets/www/js/controller/play.js",
 		"/C/Program Files/nodejs/node_modules/npm/node_modules/fstream/lib/proxy-reader.js",
 		"/D/www/gestion_temps_V2/index.php",
 		"/D/www/cordova/cordova_helloworld/www/css/style.css",
@@ -757,21 +767,7 @@
 		"/D/www/gestion_du_temps/js/Date.js",
 		"/D/www/erispoe/admin-client/enqueteur-pdf.php",
 		"/D/www/gestion_du_temps/fonctions-php/fonctions.php",
-		"/D/www/gestion_du_temps/fonctions-js/fonctions.js",
-		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/User/Preferences.sublime-settings",
-		"/D/www/gestion_du_temps/css/bootstrap-theme.min.css",
-		"/D/www/google-analytics/js/Date.js",
-		"/D/www/google-analytics/js/functions.js",
-		"/D/www/google-analytics/css/table.css",
-		"/D/www/google-analytics/css/main.css",
-		"/D/www/google-analytics/js/main.js",
-		"/D/www/gestion_du_temps/classes/functions.php",
-		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/function.sublime-snippet",
-		"/D/www/google-analytics/index.php",
-		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/function-(func).sublime-snippet",
-		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/function-(fun).sublime-snippet",
-		"/D/www/google-analytics/js/PhpToJs.js",
-		"/C/Users/Stagiaire.SCENARII.000/Downloads/Sublime Text 2.0.2 x64/Data/Packages/User/increment_decrement.py"
+		"/D/www/gestion_du_temps/fonctions-js/fonctions.js"
 	],
 	"find":
 	{
@@ -779,9 +775,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 96.0,
 		"where_history":
 		[
+			"<open folders>",
 			"D:\\www\\gestion_du_temps\\js",
 			""
 		]
@@ -791,6 +788,15 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"name",
+			"Device",
+			"facebook",
+			"SplashScreen",
+			"feature",
+			"PhoneGap",
+			"SamplePlugin",
+			"videos/",
+			".mp4",
 			"\\n",
 			"challenges",
 			"history",
@@ -909,16 +915,7 @@
 			"modifier",
 			"html\\('(.*?) : ",
 			"(.*?) : ",
-			"text",
-			"nb",
-			"user",
-			"client",
-			"debut",
-			"description",
-			"client",
-			"tache.clps",
-			"client",
-			"null"
+			"text"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1019,79 +1016,51 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "www/index.html",
+					"file": "platforms/android/src/fr/video/vid/Video.java",
 					"settings":
 					{
-						"buffer_size": 2759,
+						"buffer_size": 1422,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1841,
-								1841
+								1080,
+								1080
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 180.0,
+						"translation.y": 420.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "www/js/app.js",
+					"file": "www/js/controller/play.js",
 					"settings":
 					{
-						"buffer_size": 2302,
+						"buffer_size": 931,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1138,
-								1138
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 417.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "www/js/service/service.js",
-					"settings":
-					{
-						"buffer_size": 1559,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								886,
-								886
+								725,
+								725
 							]
 						],
 						"settings":
@@ -1107,25 +1076,51 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "www/js/controller/home.js",
+					"buffer": 2,
+					"file": "www/include/video.html",
 					"settings":
 					{
-						"buffer_size": 712,
+						"buffer_size": 173,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								694,
-								694
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/js/app.js",
+					"settings":
+					{
+						"buffer_size": 2304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1645,
+								1645
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -1136,51 +1131,53 @@
 				},
 				{
 					"buffer": 4,
-					"file": "www/css/style.css",
+					"file": "www/index.html",
 					"settings":
 					{
-						"buffer_size": 2136,
+						"buffer_size": 2796,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2136,
-								2136
+								1480,
+								1480
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 720.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "www/include/home.html",
+					"file": "config.xml",
 					"settings":
 					{
-						"buffer_size": 232,
+						"buffer_size": 544,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								187,
-								187
+								533,
+								533
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1193,74 +1190,20 @@
 					"file": "www/js/controller/root.js",
 					"settings":
 					{
-						"buffer_size": 179,
+						"buffer_size": 244,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								167,
-								167
+								240,
+								240
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "www/include/video.html",
-					"settings":
-					{
-						"buffer_size": 147,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								140,
-								140
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "www/js/controller/play.js",
-					"settings":
-					{
-						"buffer_size": 814,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								686,
-								686
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

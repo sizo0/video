@@ -6,9 +6,9 @@ app.config(function($routeProvider) {
     }).when('/about', { // /about, on fait appel à about.html
         templateUrl: 'include/about.html',
         controller: 'About'
-    }).when('/video/:id', { // /video/:id, on fait appel à video.html (id représente une valeur passée dans l'url qu'on peut récupérer par $routeParams)
+    /*}).when('/video/:id', { // /video/:id, on fait appel à video.html (id représente une valeur passée dans l'url qu'on peut récupérer par $routeParams)
         templateUrl: 'include/video.html',
-        controller: 'Play'
+        controller: 'Play'*/
     }).otherwise({ // sinon, on redirige vers la page d'accueil
         redirectTo: '/'
     });
@@ -16,25 +16,25 @@ app.config(function($routeProvider) {
 $(document).ready(function() {
     document.addEventListener('deviceready', function() {
         //code cordova
-        navigator.splashscreen.hide();
+        //navigator.splashscreen.hide();
+        document.addEventListener("menubutton", function(){
+          //alert("menu button");
+        }, false);
+      document.addEventListener('touchmove', function(e) {
+          //e.preventDefault();
+      }, false);
+      window.addEventListener('orientationchange', function(e){
+          switch (window.orientation) {
+              case 90:
+              case -90:
+                  //landscape
+                  break;
+              default:
+                  //portrait
+          }
+          //changeSize($("#home"));
+      });
     }, false);
-    document.addEventListener("backbutton", function() {
-        window.location.href = "/";
-    }, false);
-    document.addEventListener('touchmove', function(e) {
-        //e.preventDefault();
-    }, false);
-    window.addEventListener('orientationchange', function(e){
-        switch (window.orientation) {
-            case 90:
-            case -90:
-                console.log('landscape');
-                break;
-            default:
-                console.log('portrait');
-        }
-        //changeSize($("#home"));
-    });
 });
 function getWindowSizes() {
   var windowHeight = 0, windowWidth = 0;

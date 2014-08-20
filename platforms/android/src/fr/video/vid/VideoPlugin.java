@@ -3,10 +3,8 @@ package fr.video.vid;
 import java.lang.reflect.Field;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
 import android.webkit.JavascriptInterface;
 import android.widget.MediaController;
 import android.widget.VideoView;
@@ -29,20 +27,19 @@ public class VideoPlugin extends Activity  {
 			 mVideoView = (VideoView) findViewById(R.id.videoview);
 		} catch (Exception e) {
 			e.printStackTrace();
-			System.out.println("errorfindview");
 			return;
 		}
 		try {
+			R r = new R();
 			Field field = R.raw.class.getField(name);
-			String uriPath = "android.resource://" + getPackageName() + "/" + R.raw.video1;
-			System.out.println(uriPath);
+			String uriPath = "android.resource://" + getPackageName() + "/" + field.getLong(r);
+			//System.out.println(uriPath);
 			Uri uri = Uri.parse(uriPath);
 			mVideoView.setVideoURI(uri);
 			mVideoView.setMediaController(new MediaController(this));
 			mVideoView.requestFocus();
 			mVideoView.start();
 		} catch (Exception e) {
-			System.out.println("error");
 			e.printStackTrace();
 		}
     }

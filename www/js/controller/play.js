@@ -13,7 +13,6 @@ app.controller('Play', function($scope, VideosService, $routeParams, $rootScope,
         } catch (e) {
             alert(e.message);
         }
-        //window.VideoPlugin.playVideo(video.link));
     }, function(msg) {
         // fct erreur
         console.log(msg);

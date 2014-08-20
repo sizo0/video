@@ -8,14 +8,15 @@
     <feature name="SplashScreen">
         <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
     </feature>
-    <name>Video</name>
+    <name>Vidéo</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Video App
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="contact@scenarii.net" href="http://www.scenarii-video-multimedia.fr/">
+        Scenarii V&amp;M
     </author>
     <content src="index.html" />
     <access origin="*" />
     <preference name="orientation" value="landscape" />
+    <preference name="AutoHideSplashScreen" value="false" />
 </widget>

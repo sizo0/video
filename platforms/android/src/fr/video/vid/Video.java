@@ -25,9 +25,6 @@ import android.util.Log;
 import android.webkit.JavascriptInterface;
 
 import org.apache.cordova.*;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
 
 public class Video extends CordovaActivity 
 {
@@ -37,40 +34,39 @@ public class Video extends CordovaActivity
         super.onCreate(savedInstanceState);
         super.init();
         // Set by <content src="index.html" /> in config.xml
-        appView.addJavascriptInterface(new VideoPlugin(), "VideoPlugin");
         appView.addJavascriptInterface(this, "Video");
         super.loadUrl(Config.getStartUrl());
         //super.loadUrl("file:///android_asset/www/index.html");
     }
 
-	@JavascriptInterface
+  @JavascriptInterface
     public void startVideoActivity(final String name){
-    	final Video self = this;
-		runOnUiThread(new Runnable() {
-			 public void run() {
-				try {
-					Intent intent = new Intent(self, VideoPlugin.class);
-					Bundle b = new Bundle();
-					b.putString("name", name);
-					intent.putExtras(b);
-					startActivity(intent);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			 }
-		});
+      final Video self = this;
+    runOnUiThread(new Runnable() {
+       public void run() {
+        try {
+          Intent intent = new Intent(self, VideoPlugin.class);
+          Bundle b = new Bundle();
+          b.putString("name", name);
+          intent.putExtras(b);
+          startActivity(intent);
+        } catch (Exception e) {
+          e.printStackTrace();
+        }
+       }
+    });
     }
-	
-	@Override
-	protected void onStop() {
-	    Log.w(TAG, "App stopped");
-	    super.onStop();
-	}
+  
+  @Override
+  protected void onStop() {
+      Log.w(TAG, "App stopped");
+      super.onStop();
+  }
 
-	@Override
-	public void onDestroy() {
-	    Log.w(TAG, "App destoryed");
-	    super.onDestroy();
-	}
+  @Override
+  public void onDestroy() {
+      Log.w(TAG, "App destoryed");
+      super.onDestroy();
+  }
 }
 
